@@ -76,10 +76,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Bootcamp Data Science
-        link: neueFische.com
-        # link_text: boringcompany.com
-        sub_title: Intensive full-time coding bootcamp
+        title: Trainee Data Science
+        link: https://www.neuefische.de/bootcamp/data-science
+        link_text: neueFische.com
+        sub_title: Full-time coding bootcamp
         caption: March 2023 - June 2023
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -90,9 +90,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left  
-        title: Ruhr-Unversity Bochum
+        title: PhD Earth Science
+        caption: 2018 - Present
+        sub_title: Ruhr-Unversity Bochum
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description:
+      - layout: left  
+        title: MSc Earth Science
         caption: 2015 - 2018
-        sub_title: MSc Earth Science
+        sub_title: Ruhr-Unversity Bochum
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: #| # this will include new lines to allow paragraphs
@@ -100,9 +107,9 @@ content:
 
           #I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
-        title: Ruhr-Unversity Bochum
+        title: BSc Earth Science
         caption: 2010 - 2014
-        sub_title: BSc Earth Science
+        sub_title: Ruhr-Unversity Bochum
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: #| # this will include new lines to allow paragraphs
