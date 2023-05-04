@@ -92,14 +92,14 @@ content:
       - layout: left  
         title: PhD Earth Science
         caption: 2018 - Present
-        sub_title: Ruhr-Unversity Bochum
+        sub_title: Ruhr-University Bochum
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description:
       - layout: left  
         title: MSc Earth Science
         caption: 2015 - 2018
-        sub_title: Ruhr-Unversity Bochum
+        sub_title: Ruhr-University Bochum
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: #| # this will include new lines to allow paragraphs
@@ -109,7 +109,7 @@ content:
       - layout: left
         title: BSc Earth Science
         caption: 2010 - 2014
-        sub_title: Ruhr-Unversity Bochum
+        sub_title: Ruhr-University Bochum
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: #| # this will include new lines to allow paragraphs
@@ -121,13 +121,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Round trip in South East Asia and New Zealand
+        title: Educational trip
         caption: 2014 - 2015
         #sub_title: BSc Earth Science
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Thailand,Laos,Kambodscha,Malaysia,Philippinen,Borneo,IndonesienundNeuseeland
+          During my 10-month trip around Southeast Asia and New Zealand, I gained valuable experience in budget travel, cultural immersion, and adaptability. I learned to navigate various modes of transportation, communicate with people from different backgrounds and cultures, and overcome challenges through resourcefulness and resilience. 
+          
+          This experience has broadened my perspective and enhanced my problem-solving and interpersonal skills.
 
   - title: A Little More About Me
     layout: text
