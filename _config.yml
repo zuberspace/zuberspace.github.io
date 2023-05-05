@@ -100,8 +100,8 @@ content:
         title: MSc Geoscience
         caption: 2015 - 2018
         sub_title: Ruhr-University Bochum
-        #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        quote: | # >
+          "Crystallography allows us to see the world in a different light, revealing the hidden patterns and structures that underpin our understanding of matter." - Paul F. McMillan
         description: | # this will include new lines to allow paragraphs
           I earned a Master of Science degree in Geosciences, with a focus on crystal chemistry, crystal physics, and experimental crystallography. Additionally, I gained expertise in analytical methods for geosciences, as well as simulation and modeling techniques.
 
@@ -111,7 +111,7 @@ content:
         caption: 2010 - 2014
         sub_title: Ruhr-University Bochum
         quote: >
-          Geology is the study of pressure and time. That's all it takes, really. Pressure and time.
+          "Geology is the study of the past, but it is also the key to our future." - Marcia McNutt
         description: | # this will include new lines to allow paragraphs
           My Bachelor's degree in geosciences provided me with extensive knowledge and practical experience in geology, chemistry, physics, and mathematics. The program included exciting field trips, which allowed me to apply my knowledge in real-world settings and gain valuable hands-on experience. I also completed a Bachelor's thesis that explored the genesis of unusual mineralizations in Ladinian deposits in South Tyrol, providing me with experience in conducting independent research, analyzing data, and presenting findings. Overall, my Bachelor's degree and field trip experiences have equipped me with valuable knowledge and skills in the field of geosciences.
 
