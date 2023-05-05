@@ -112,8 +112,8 @@ content:
         sub_title: Ruhr-University Bochum
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: #| # this will include new lines to allow paragraphs
-          My Bachelor's degree in Geosciences provided me with extensive knowledge and practical experience in geology, chemistry, physics, and mathematics. The program included exciting field trips, which allowed me to apply my knowledge in real-world settings and gain valuable hands-on experience. I also completed a Bachelor's thesis that explored the genesis of unusual mineralizations in Ladinian deposits in South Tyrol, providing me with experience in conducting independent research, analyzing data, and presenting findings. Overall, my Bachelor's degree and field trip experiences have equipped me with valuable knowledge and skills in the field of geosciences.
+        description: | # this will include new lines to allow paragraphs
+          My Bachelor's degree in geosciences provided me with extensive knowledge and practical experience in geology, chemistry, physics, and mathematics. The program included exciting field trips, which allowed me to apply my knowledge in real-world settings and gain valuable hands-on experience. I also completed a Bachelor's thesis that explored the genesis of unusual mineralizations in Ladinian deposits in South Tyrol, providing me with experience in conducting independent research, analyzing data, and presenting findings. Overall, my Bachelor's degree and field trip experiences have equipped me with valuable knowledge and skills in the field of geosciences.
 
           During my Bachelor's degree, I was actively involved in the student association as a member of the Institute Council and the Quality Assurance committee. I also served as the IT officer, ensuring that students had access to the necessary technological resources for their studies.
 
