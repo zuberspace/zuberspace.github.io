@@ -135,10 +135,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests some of my other interests and hobbies are:
-      - Diving, hiking, via ferratas and camping
-      - Mechanical keyboards, diy drones, diy electronics and smart home
-      - Gaming, reading and cooking
+      I have a deep love for exploring the natural world, whether through **diving**, hiking, or conquering via ferratas. I also enjoy the simplicity of camping and being in nature. On the tech side, I enjoy tinkering with mechanical keyboards, building DIY drones and electronics, and experimenting with smart home technology. When I need a break from the digital world, I like to unwind by playing video games or reading a good book, and I also find joy in cooking and trying out new recipes.
 
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
