@@ -80,6 +80,16 @@ content:
         link: https://www.neuefische.de/bootcamp/data-science
         link_text: neueFische.com
         sub_title: Full-time coding bootcamp
+        caption: April 2022 - June 2023
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            540 hours of hands-on programming practice with team-based development of a four-week-project. 
+      - layout: left
+        title: Full Stack Web Developer
+        link: https://www.hls-database.com
+        link_text: hls-database.com
+        sub_title: Full-time coding bootcamp
         caption: March 2023 - June 2023
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -135,7 +145,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I have a deep love for exploring the natural world, whether through **diving**, hiking, or conquering via ferratas. I also enjoy the simplicity of camping and being in nature. On the tech side, I enjoy tinkering with mechanical keyboards, building DIY drones and electronics, and experimenting with smart home technology. When I need a break from the digital world, I like to unwind by playing video games or reading a good book, and I also find joy in cooking and trying out new recipes.
+      I have a deep love for exploring the natural world, whether through **diving**, **hiking**, or conquering **via ferratas**. I also enjoy the simplicity of **camping** and **being in nature**. On the tech side, I enjoy tinkering with **mechanical keyboards**, **building DIY drones** and **electronics**, and experimenting with **smart home** technology. When I need a break from the digital world, I like to unwind by playing **video games** or reading a **good book**, and I also find joy in **cooking** and trying out new recipes.
 
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
