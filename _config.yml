@@ -76,7 +76,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Trainee Data Science
+        title: Projectmanager Smart City
+        link: https://www.bochum.de/Chief-Digital-Officer/OpenData-Ansprechperson
+        link_text: Bochum.de
+        sub_title: Urban data plattform & open data
+        caption: July 2023 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Combining my knowledge in nature, data, and IT science, I have taken on the role of Project Manager within the Smart City team at the City of Bochum. Leading a significant initiative, I am driving the establishment of an Urban Data Platform for Bochum, focusing on the effective organization and utilization of open data. This position enables me to apply my scientific expertise and technical skills to contribute to the city's smart initiatives, working towards innovative solutions that enhance urban living in Bochum through strategic data management.
+      - layout: left
+        title: Data Science Trainee
         link: https://www.neuefische.de/bootcamp/data-science
         link_text: neueFische.com
         sub_title: Full-time coding bootcamp
@@ -84,17 +94,17 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            540 hours of hands-on programming practice with team-based development of a four-week-project. 
+            I completed an intensive 3-month Data Science bootcamp where I immersed myself in Python programming. The curriculum covered a wide array of topics, from fundamental data manipulation and analysis to machine learning algorithms. Throughout the program, I gained hands-on experience in real-world projects, applying statistical and machine learning techniques to solve complex problems. This intensive training not only enhanced my proficiency in Python but also equipped me with valuable skills in data analysis and machine learning, setting a strong foundation for my journey in the field of data science.
       - layout: left
         title: Full Stack Web Developer
         link: https://www.hls-database.com
         link_text: hls-database.com
         sub_title: Full-time coding bootcamp
-        caption: March 2023 - June 2023
+        caption: March 2020 - June 2022
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            540 hours of hands-on programming practice with team-based development of a four-week-project. 
+          As a full-stack developer, I spearheaded the creation of a specialized database for Hydrous Layer Silicates at the university using Django. My role involved designing an efficient database structure, implementing advanced search features, and ensuring data security. This project not only showcased my technical expertise but also contributed significantly to enhancing research capabilities within the academic community. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
