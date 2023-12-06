@@ -104,8 +104,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          As a full-stack developer, I spearheaded the creation of a specialized database for Hydrous Layer Silicates at the university using Django. My role involved designing an efficient database structure, implementing advanced search features, and ensuring data security. This project not only showcased my technical expertise but also contributed significantly to enhancing research capabilities within the academic community. 
-
+            As a full-stack developer, I spearheaded the creation of a specialized database for Hydrous Layer Silicates at the university using Django. My role involved designing an efficient database structure, implementing advanced search features, and ensuring data security. This project not only showcased my technical expertise but also contributed significantly to enhancing research capabilities within the academic community.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
