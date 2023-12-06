@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Philipp and I'm a junior Data Scientist. 
+  Hi, my name's Philipp. 
 
-  I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  # I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
 
 content:
 #  - title: Projects # Title for the section
@@ -77,14 +77,14 @@ content:
     content:
       - layout: left
         title: Projectmanager Smart City
-        link: https://www.bochum.de/Chief-Digital-Officer/OpenData-Ansprechperson
-        link_text: Bochum.de
+        link: https://www.bochum-smartcity.de/ueber-uns
+        link_text: Bochum-SmartCity.de
         sub_title: Urban data plattform & open data
         caption: July 2023 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Combining my knowledge in nature, data, and IT science, I have taken on the role of Project Manager within the Smart City team at the City of Bochum. Leading a significant initiative, I am driving the establishment of an Urban Data Platform for Bochum, focusing on the effective organization and utilization of open data. This position enables me to apply my scientific expertise and technical skills to contribute to the city's smart initiatives, working towards innovative solutions that enhance urban living in Bochum through strategic data management.
+          Combining my knowledge in nature, data, and IT science, I have taken on the role of Project Manager within the Smart City team at the City of Bochum. Leading a significant initiative, I am driving the establishment of an Urban Data Platform for Bochum, focusing on the effective organization and utilization of open data. This position enables me to apply my scientific expertise and technical skills to contribute to the city's smart initiatives, working towards innovative solutions that enhance urban living in Bochum through strategic data management.
       - layout: left
         title: Data Science Trainee
         link: https://www.neuefische.de/bootcamp/data-science
@@ -94,7 +94,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I completed an intensive 3-month Data Science bootcamp where I immersed myself in Python programming. The curriculum covered a wide array of topics, from fundamental data manipulation and analysis to machine learning algorithms. Throughout the program, I gained hands-on experience in real-world projects, applying statistical and machine learning techniques to solve complex problems. This intensive training not only enhanced my proficiency in Python but also equipped me with valuable skills in data analysis and machine learning, setting a strong foundation for my journey in the field of data science.
+          I completed an intensive 3-month Data Science bootcamp where I immersed myself in Python programming. The curriculum covered a wide array of topics, from fundamental data manipulation and analysis to machine learning algorithms. Throughout the program, I gained hands-on experience in real-world projects, applying statistical and machine learning techniques to solve complex problems. This intensive training not only enhanced my proficiency in Python but also equipped me with valuable skills in data analysis and machine learning, setting a strong foundation for my journey in the field of data science.
       - layout: left
         title: Full Stack Web Developer
         link: https://www.hls-database.com
@@ -104,7 +104,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            As a full-stack developer, I spearheaded the creation of a specialized database for Hydrous Layer Silicates at the university using Django. My role involved designing an efficient database structure, implementing advanced search features, and ensuring data security. This project not only showcased my technical expertise but also contributed significantly to enhancing research capabilities within the academic community.
+          As a full-stack developer, I spearheaded the creation of a specialized database for Hydrous Layer Silicates at the university using Django. My role involved designing an efficient database structure, implementing advanced search features, and ensuring data security. This project not only showcased my technical expertise but also contributed significantly to enhancing research capabilities within the academic community.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -112,9 +112,9 @@ content:
         title: PhD Geoscience
         caption: 2018 - Present
         sub_title: Ruhr-University Bochum
-        #quote: >
-          I dedicated four years to research as a researcher at the university and commenced my Ph.D. While I have made significant contributions during this time, I have yet to complete my doctoral studies as of today. Despite this, my experience in the research domain has provided me with valuable insights and skills that I continue to leverage in various capacities.
+        # quote: >
         description:
+          I dedicated four years to research as a researcher at the university and commenced my Ph.D. While I have made significant contributions during this time, I have yet to complete my doctoral studies as of today. Despite this, my experience in the research domain has provided me with valuable insights and skills that I continue to leverage in various capacities.
       - layout: left  
         title: MSc Geoscience
         caption: 2015 - 2018
