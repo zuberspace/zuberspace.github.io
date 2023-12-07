@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Philipp Zuber
-title: Project Manager Urban Data Plattform
+title: Project Manager Urban Data Platform
 email: philipp.zuber@posteo.de
 website: philipp.zuber.space
 
@@ -87,12 +87,14 @@ content:
           - title:  Bochum GitLab OpenCode
             icon: fab fa-gitlab
             url: https://gitlab.opencode.de/StadtBochum/
-        sub_title: Urban data plattform & open data
+        sub_title: Urban data platform & open data
         caption: July 2023 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Combining my knowledge in nature, data, and IT science, I have taken on the role of Project Manager within the Smart City team at the City of Bochum. Leading a significant initiative, I am driving the establishment of an Urban Data Platform for Bochum, focusing on the effective organization and utilization of open data. This position enables me to apply my scientific expertise and technical skills to contribute to the city's smart initiatives, working towards innovative solutions that enhance urban living in Bochum through strategic data management.
+          
+          <mark>Project Management</mark> <mark>Urban Data Platform</mark> <mark>Open Data</mark> <mark>CKAN</mark> <mark>OpenCode.de</mark> <mark>Git</mark> <mark>Digitalization</mark> <mark>Public administration</mark>
       - layout: left
         title: Data Science Trainee
         link: https://www.neuefische.de/bootcamp/data-science
