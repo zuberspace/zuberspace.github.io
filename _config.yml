@@ -93,6 +93,8 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           I completed an intensive 3-month Data Science bootcamp where I immersed myself in Python programming. The curriculum covered a wide array of topics, from fundamental data manipulation and analysis to machine learning algorithms. Throughout the program, I gained hands-on experience in real-world projects, applying statistical and machine learning techniques to solve complex problems. This intensive training not only enhanced my proficiency in Python but also equipped me with valuable skills in data analysis and machine learning, setting a strong foundation for my journey in the field of data science.
+          
+          <mark>Phyton</mark>
       - layout: left
         title: Full Stack Web Developer
         link: https://www.hls-database.com
