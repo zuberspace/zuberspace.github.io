@@ -79,7 +79,7 @@ content:
         link_text: bochum-smartcity.de
         additional_links:
           - title:  Bochum.de
-            icon: fab fa-city
+            icon: fas fa-building
             url: https://www.bochum.de/Chief-Digital-Officer/OpenData-Ansprechperson
           - title:  Bochum GitHub
             icon: fab fa-github
