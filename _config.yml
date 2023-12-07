@@ -77,6 +77,10 @@ content:
         title: Projectmanager Smart City
         link: https://www.bochum-smartcity.de/ueber-uns
         link_text: Bochum-SmartCity.de
+        additional_links:
+          - title:  Bochum.de
+            #icon: fab fa-github
+            url: https://www.bochum.de/Chief-Digital-Officer/OpenData-Ansprechperson
         sub_title: Urban data plattform & open data
         caption: July 2023 - Present
         #quote: >
@@ -105,6 +109,8 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           As a full-stack developer, I spearheaded the creation of a specialized database for Hydrous Layer Silicates at the university using Django. My role involved designing an efficient database structure, implementing advanced search features, and ensuring data security. This project not only showcased my technical expertise but also contributed significantly to enhancing research capabilities within the academic community.
+          
+          <mark>Django</mark> <mark>Database design</mark> <mark>PostgreSQL</mark> <mark>Tailwind CSS</mark> <mark>Alpine.js</mark> <mark>Charts.js</mark> <mark>jQuery</mark> <mark>gunicorn</mark>
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -125,6 +131,8 @@ content:
           I earned a Master of Science degree in Geosciences, with a focus on crystal chemistry, crystal physics, and experimental crystallography. Additionally, I gained expertise in analytical methods for geosciences, as well as simulation and modeling techniques.
 
           In my Master thesis I focused on the elastic behavior of crystalline materials, with a particular emphasis on oxides and silicates. Through my research, I refined the elastic S-values of individual oxide components using experimental data, and used these values to calculate the S-values of composite oxides and silicates. The results demonstrated an improved agreement between experimental and calculated S-values. Overall, Master's degree provided me with advanced skills in research methodology, data analysis, and problem-solving that are applicable in various fields of geoscience.
+          
+          <mark>XRD</mark> <mark>EPMA/WDX</mark> <mark>SEM/EDX</mark> <mark>DTA/TG</mark> <mark>DSC</mark> <mark>RUS</mark> <mark>RFA</mark> <mark>UV/VIS+IR</mark> <mark>AAS</mark> <mark>AFM</mark> <mark>NMR</mark>
       - layout: left
         title: BSc Geoscience
         caption: 2010 - 2014
