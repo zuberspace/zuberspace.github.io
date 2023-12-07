@@ -74,13 +74,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Projectmanager <br> Smart City
+        title: Smart City <br> Projectmanager
         link: https://www.bochum-smartcity.de/ueber-uns
-        link_text: Bochum-SmartCity.de
+        link_text: bochum-smartcity.de
         additional_links:
           - title:  Bochum.de
-            icon: fab fa-github
+            icon: fab fa-city
             url: https://www.bochum.de/Chief-Digital-Officer/OpenData-Ansprechperson
+          - title:  Bochum GitHub
+            icon: fab fa-github
+            url: https://github.com/StadtBochum
+          - title:  Bochum GitLab OpenCode
+            icon: fab fa-gitlab
+            url: https://gitlab.opencode.de/StadtBochum/
         sub_title: Urban data plattform & open data
         caption: July 2023 - Present
         #quote: >
@@ -90,7 +96,7 @@ content:
       - layout: left
         title: Data Science Trainee
         link: https://www.neuefische.de/bootcamp/data-science
-        link_text: neueFische.com
+        link_text: neuefische.com
         sub_title: Full-time coding bootcamp
         caption: April 2022 - June 2023
         #quote: >
@@ -103,8 +109,8 @@ content:
         title: Full Stack Developer
         link: https://www.hls-database.com
         link_text: hls-database.com
-        sub_title: Full-time coding bootcamp
-        caption: March 2020 - June 2022
+        sub_title: Freelancer
+        caption: April 2020 - June 2022
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
