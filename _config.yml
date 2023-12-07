@@ -97,6 +97,10 @@ content:
         title: Data Science Trainee
         link: https://www.neuefische.de/bootcamp/data-science
         link_text: neuefische.com
+        additional_links:
+          - title:  neueFische GitHub
+            icon: fab fa-github
+            url: https://github.com/neuefische
         sub_title: Full-time coding bootcamp
         caption: April 2022 - June 2023
         #quote: >
