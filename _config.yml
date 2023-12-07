@@ -74,12 +74,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Projectmanager Smart City
+        title: Projectmanager <br> Smart City
         link: https://www.bochum-smartcity.de/ueber-uns
         link_text: Bochum-SmartCity.de
         additional_links:
           - title:  Bochum.de
-            #icon: fab fa-github
+            icon: fab fa-github
             url: https://www.bochum.de/Chief-Digital-Officer/OpenData-Ansprechperson
         sub_title: Urban data plattform & open data
         caption: July 2023 - Present
@@ -100,7 +100,7 @@ content:
           
           <mark>Python</mark> <mark>Machine Learning</mark> <mark>Neural Networks</mark> <mark>Data visualization</mark> <mark>Git</mark> <mark>SQL</mark> <mark>Scrum</mark>
       - layout: left
-        title: Full Stack Web Developer
+        title: Full Stack Developer
         link: https://www.hls-database.com
         link_text: hls-database.com
         sub_title: Full-time coding bootcamp
