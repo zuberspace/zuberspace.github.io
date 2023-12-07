@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Philipp Zuber
-title: Data Scientist
+title: Project Manager Urban Data Plattform
 email: philipp.zuber@posteo.de
 website: philipp.zuber.space
 
@@ -48,9 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Philipp. 
-
-  # I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's <mark>Philipp</mark>. 
 
 content:
 #  - title: Projects # Title for the section
